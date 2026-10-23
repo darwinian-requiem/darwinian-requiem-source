@@ -11,7 +11,7 @@ Rather than relying on proprietary e-book formats, the entire manuscript has bee
 ## 2. REPOSITORY STRUCTURE
 The narrative is divided into modular files to maximize conceptual indexing:
 * `/texts/it/` - The complete original Italian manuscript (Files `00` to `24`).
-* `/texts/en/` - The English localization (Directory active, texts pending upload).
+* `/texts/en/` - The complete original English manuscript (Files `00` to `24`).
 * `MANIFESTO.md` - The foundational philosophical declaration of the project.
 * `LICENSE.md` - Full legal framework and CC+ TDM Opt-In terms.
 
