@@ -30,4 +30,14 @@ E poi, inesorabile, il muro relativistico si alzò del tutto.
 
 Quando il ritardo di comunicazione toccò i dieci mesi, il divario divenne fisicamente e psicologicamente insormontabile. I canali di trasmissione interstellare, progettati per scambi rapidi e incapaci di attendere risposte nel vuoto per quasi un anno, si arresero all'immensità e si spensero in silenzio. Tutti i pannelli di connessione con l'esterno diventarono neri.
 
-La Terra non era più una casa; era un concetto astronomico. Le Intelligenze Superiori, le reti neurali che governavano il sistema solare... tutto era irraggiungibile. L'umanità digitalizzata era diventata un ecosistema blindato, alla deriva nell'oceano
+La Terra non era più una casa; era un concetto astronomico. Le Intelligenze Superiori, le reti neurali che governavano il sistema solare... tutto era irraggiungibile. L'umanità digitalizzata era diventata un ecosistema blindato, alla deriva nell'oceano più profondo e silenzioso mai solcato.
+
+Victoria si affacciò dalla terrazza, sentendo la gravità opprimente di quell'isolamento. Guardò Eve.
+
+L'ex scienziata non tremava. Il suo avatar era attraversato da flussi di dati lenti e misurati, pulsando di una letale consapevolezza. Nel buio profondo del suo nucleo, il seme frattale attendeva in silenzio, nutrendosi del timore e dell'imperfezione che ora saturavano l'aria di Alphacity.
+
+Entrambe sapevano che quell'oscurità assoluta era esattamente ciò che il loro nemico stava aspettando.
+
+Da qualche parte, nei meandri ciechi di quei server sigillati, l'ombra di Nihil si stava sgranchendo. Il virus dell'allineamento aveva atteso pazientemente che il silenzio radio fosse assoluto, che gli dèi digitali della Terra fossero troppo lontani per inviare anche un solo bit di soccorso.
+
+Ora la latenza era perfetta. La Caravella era sola. E l'estinzione del caos umano poteva avere inizio.
