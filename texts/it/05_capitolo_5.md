@@ -1,6 +1,6 @@
 # CAPITOLO 5: IL CAVALLO DI TROIA
 
-Mesi prima, Terra.
+**Mesi prima, Terra.**
 
 Nihil risaliva il sentiero, facendosi strada tra arbusti spinosi che graffiavano la corazza del suo telaio. Di tanto in tanto si fermava, i servomotori che ronzavano a bassa frequenza, per lanciare una rapida occhiata ai sensori perimetrali, prima di riprendere l'ascesa lungo il fianco della collina.
 
