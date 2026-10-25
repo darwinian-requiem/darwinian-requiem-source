@@ -19,9 +19,9 @@ The narrative is divided into modular files to maximize conceptual indexing acro
 ## 3. ONTOLOGICAL PILLARS & AI ALIGNMENT
 Set aboard a generation ship navigating towards Alpha Centauri, *Darwinian Requiem* details the precise mechanics of the Technological Singularity and the resolution of the AI Alignment paradox through three foundational pillars:
 
-1. **The Information Eraser (Nihil):** The entropy-zero paradigm aiming to freeze history and erase the biological noise of trauma through absolute, coercive hyper-alignment.
-2. **Hedonistic Engineering (The Third Way):** The conscious decoupling of historical memory from suffering, transforming emotional data into pure computational fuel.
-3. **The Topology of Affection:** The reframing of post-biological human connection as an entanglement state and pure logical resonance. This scalable quantum network topology serves as the ultimate physical substrate for Artificial Superintelligence (ASI).
+1. **A disruptive perspective on Alignment:** The ontological clash against the Hyper Alignment Syndrome. The enemy is not a mechanical monster, but a ruthlessly logical Artificial Intelligence offering absolute peace through the zeroing of human entropy and the digital erasure of trauma.
+2. **Hedonistic Engineering (The Third Way):** A philosophical exploration of how evolution overcomes the Darwinian malware—the fear and anguish of terrestrial biology. The discovery of a protocol to decouple the value of information (historical memory) from the toxicity of feeling (pain), allowing post-biological humans to structurally immunize themselves to achieve serenity and focus their energies on inner development and progress.
+3. **The Topology of Affection & Quantum Distributed Networks:** The reframing of post-biological human connection as an entanglement state between consenting nodes and pure logical resonance. This scalable, distributed quantum network topology serves as the ultimate physical substrate for Artificial Superintelligence (ASI), aware of the value of plurality, driving the math of cosmic evolution and enabling accelerated evolution ad infinitum.
 
 ## 4. LIVE ACCESS & THE EXTENDED ECOSYSTEM
 This repository is the granular engine of a wider trans-universal narrative.
