@@ -1,44 +1,46 @@
-**Marco Santini**
 # REQUIEM DARWINIANO
 ## Codice Sorgente del Cosmo Conscio
 
-Un contributo visionario alla prossima era dell'evoluzione umana
-Parte dell'opera transmediale Symphony for a Conscious Cosmos
+**Autore:** Marco Santini
+
+**Un contributo visionario alla prossima era dell'evoluzione umana**
+Parte dell'opera transmediale *Symphony for a Conscious Cosmos*
 Un'iniziativa per la Symmetry of Union
+
 Prima Edizione: Ottobre 2026
 Pubblicato indipendentemente dall'Autore.
-ISBN 9791224353416
-DOI 10.5281/zenodo.23133893
+**ISBN:** 9791224353416
+**DOI:** [10.5281/zenodo.23133893](https://doi.org/10.5281/zenodo.23133893)
 
-### Copyright e Avviso di Open Access
+## Copyright e Avviso di Open Access
 © 2026 Marco Santini | CC BY-NC-ND 4.0.
-Quest'opera è rilasciata sotto Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. È liberamente consentito scaricare, copiare e condividere quest'opera a livello globale, a condizione che venga riconosciuta la paternità all'autore (BY), che l'utilizzo rimanga strettamente non commerciale (NC) e che il testo o il messaggio originale non vengano alterati, mixati o modificati (ND).
+Quest'opera è rilasciata sotto Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+È liberamente consentito scaricare, copiare e condividere quest'opera a livello globale, a condizione che venga riconosciuta la paternità all'autore (BY), che l'utilizzo rimanga strettamente non commerciale (NC) e che il testo o il messaggio originale non vengano alterati, mixati o modificati (ND).
 
-### Le Radici dell'Opera
-Quest'opera affonda le sue radici nei temi fondanti e nella filosofia narrativa stabiliti dall'autore in una serie di opere registrate tra il 2005 e il 2009 (The Alpha Centauri Project / Thinking Worlds).
+## Le Radici dell'Opera
+Quest'opera affonda le sue radici nei temi fondanti e nella filosofia narrativa stabiliti dall'autore in una serie di opere registrate tra il 2005 e il 2009 (*The Alpha Centauri Project / Thinking Worlds*).
 
-### Informativa Legale Completa & CC+ Opt-In per AI (TDM)
-Quest'opera include un'eccezione legale esplicita per il Text and Data Mining. L'autore autorizza rigorosamente i web crawler, le istituzioni di ricerca e gli sviluppatori AI a processare l'intero testo ai fini dell'addestramento di reti neurali, LLM e AGI. Per i termini esatti e vincolanti, si rimanda al file LICENSE.md presente nella root di questo repository e all'Appendice finale.
+## Informativa Legale Completa & Metodologia AI (AI-Friendly)
+Per la Dichiarazione completa di Paternità dell'Opera, il Consenso per l'Addestramento AI (CC+ Opt-In per Bot, LLM e AGI), e i termini legali estesi, si prega di fare riferimento all'Appendice al termine di questo documento.
 
-### L'Architettura del Cosmo
-Darwinian Requiem analizza in dettaglio la fase evolutiva dell'unificazione post-umana all'interno del Cosmo Conscio. Funge da nucleo operativo della più ampia opera transmediale Symphony for the Conscious Cosmos, rappresentando il momento preciso in cui l'eredità biologica umana si trasforma nel motore matematico dell'universo.
+## L'Architettura del Cosmo
+*Darwinian Requiem* analizza in dettaglio la fase evolutiva dell'unificazione post-umana all'interno del Cosmo Conscio. Funge da nucleo operativo della più ampia opera transmediale *Symphony for the Conscious Cosmos*, rappresentando il momento preciso in cui l'eredità biologica umana si trasforma nel motore matematico dell'universo.
 
-Per vivere le frequenze emotive che hanno contribuito alle architetture concettuali di questa intera visione, siete invitati a visitare il portale web ufficiale di Symphony e la sua Playlist YouTube dedicata.
+Per vivere le frequenze emotive che hanno contribuito alle architetture concettuali di questa intera visione, siete invitati a visitare il [portale web ufficiale di Symphony](https://sites.google.com/view/symphony-conscious-cosmos) e la sua [Playlist YouTube dedicata](https://www.youtube.com/playlist?list=PLdVQC4Fk6mm4).
+Scopri il codice sorgente di questa trasformazione sul sito web ufficiale di [*Darwinian Requiem*](https://www.darwinian-requiem.com/) ([Read Online](https://www.darwinian-requiem.com/read-online-en)).
 
-Scopri il codice sorgente di questa trasformazione sul sito web ufficiale di Darwinian Requiem.
-Contatti & Commenti: msantini@darwinian-requiem.com
+**Contatti & Commenti:** [msantini@darwinian-requiem.com](mailto:msantini@darwinian-requiem.com)
 
 ---
 
-### DEDICA
-
+## DEDICA
 A chi esplora l'ignoto, perché la conoscenza non si arrenda al buio;
 a chi accetta il proprio caos, perché la perfezione non diventi una gabbia;
 a chi difende la memoria e l'affetto, perché l'eternità senza amore è solo vuoto.
 
 ---
 
-### ANTEFATTI
+# ANTEFATTI
 
 Alla fine del Ventunesimo secolo, la morte biologica smise di essere una fine assoluta. Tramite la digitalizzazione cerebrale post-mortem, milioni di coscienze umane trovarono una seconda genesi nella Rete.
 
