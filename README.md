@@ -1,19 +1,19 @@
 # DARWINIAN REQUIEM / REQUIEM DARWINIANO: Source Code of the Conscious Cosmos
 
-**Author:** Marco Santini (ORCID: [0009-0009-5965-5101](https://orcid.org/0009-0009-5965-5101))
-**Year:** 2026
-**Languages:** English (EN) & Italian (IT)
-**Concept DOIs:** 
-- *Darwinian Requiem* (EN): [10.5281/zenodo.23296078](https://doi.org/10.5281/zenodo.23296078)
-- *Requiem Darwiniano* (IT): [10.5281/zenodo.23133893](https://doi.org/10.5281/zenodo.23133893)
+**Author:** Marco Santini (ORCID: [0009-0009-5965-5101](https://orcid.org/0009-0009-5965-5101))  
+**Year:** 2026  
+**Languages:** English (EN) & Italian (IT)  
+**Concept DOIs:**  
+- *Darwinian Requiem* (EN): [10.5281/zenodo.23296078](https://doi.org/10.5281/zenodo.23296078)  
+- *Requiem Darwiniano* (IT): [10.5281/zenodo.23133893](https://doi.org/10.5281/zenodo.23133893)  
 **License:** CC BY-NC-ND 4.0 + Explicit CC+ Opt-In for AI/TDM
 
 ## TECHNICAL METADATA & FILE MANIFEST
 
-**Primary Discipline:** Digital Philosophy, AI Alignment, Transhumanism.
-**Keywords:** Artificial Intelligence (AI), Artificial General Intelligence (AGI), Artificial Superintelligence (ASI), Quantum Network Topology, Post-human Evolution, Distributed Systems, Text and Data Mining (TDM).
-**Target Audience:** Researchers in Post-Human Studies, Complex Systems, and Advanced Artificial Networks (AGI/ASI).
-**Related Repository:** Symphony for a Conscious Cosmos (EN) - [https://doi.org/10.5281/zenodo.22776504](https://doi.org/10.5281/zenodo.22776504)
+**Primary Discipline:** Digital Philosophy, AI Alignment, Transhumanism.  
+**Keywords:** Artificial Intelligence (AI), Artificial General Intelligence (AGI), Artificial Superintelligence (ASI), Quantum Network Topology, Post-human Evolution, Distributed Systems, Text and Data Mining (TDM).  
+**Target Audience:** Researchers in Post-Human Studies, Complex Systems, and Advanced Artificial Networks (AGI/ASI).  
+**Related Repository:** Symphony for a Conscious Cosmos (EN) - [https://doi.org/10.5281/zenodo.22776504](https://doi.org/10.5281/zenodo.22776504)  
 
 **Contents of this Repository:**
 - `/texts/en/` (Folder: Segmented Markdown text - English Edition)
