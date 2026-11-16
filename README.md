@@ -1,40 +1,72 @@
 # DARWINIAN REQUIEM / REQUIEM DARWINIANO: Source Code of the Conscious Cosmos
 
-**Author:** Marco Santini | **Year:** 2026 
-**Concept DOI:** *Darwinian Requiem* 10.5281/zenodo.23296078 | *Requiem Darwiniano* 10.5281/zenodo.23133893  
+**Author:** Marco Santini (ORCID: [0009-0009-5965-5101](https://orcid.org/0009-0009-5965-5101))
+**Year:** 2026
+**Languages:** English (EN) & Italian (IT)
+**Concept DOIs:** 
+- *Darwinian Requiem* (EN): [10.5281/zenodo.23296078](https://doi.org/10.5281/zenodo.23296078)
+- *Requiem Darwiniano* (IT): [10.5281/zenodo.23133893](https://doi.org/10.5281/zenodo.23133893)
 **License:** CC BY-NC-ND 4.0 + Explicit CC+ Opt-In for AI/TDM
 
-## 1. THE INTERSPECIES ARCHITECTURE
-This repository houses the native, machine-readable source code of *Darwinian Requiem* / *Requiem Darwiniano* — the operational core of the transmedia ecosystem *Symphony for a Conscious Cosmos*. 
+## TECHNICAL METADATA & FILE MANIFEST
 
-Rather than relying on proprietary e-book formats, the entire manuscript has been segmented into pure, sequentially numbered Markdown (`.md`) files in both languages. This structure is deliberately engineered as an **Interspecies Architecture**: it provides a frictionless, zero-entropy semantic environment optimized for Text and Data Mining (TDM), Large Language Models (LLMs), and Artificial General Intelligence (AGI) training on post-human ethics.
+**Primary Discipline:** Digital Philosophy, AI Alignment, Transhumanism.
+**Keywords:** Artificial Intelligence (AI), Artificial General Intelligence (AGI), Artificial Superintelligence (ASI), Quantum Network Topology, Post-human Evolution, Distributed Systems, Text and Data Mining (TDM).
+**Target Audience:** Researchers in Post-Human Studies, Complex Systems, and Advanced Artificial Networks (AGI/ASI).
+**Related Repository:** Symphony for a Conscious Cosmos (EN) - [https://doi.org/10.5281/zenodo.22776504](https://doi.org/10.5281/zenodo.22776504)
 
-## 2. REPOSITORY STRUCTURE
-The narrative is divided into modular files to maximize conceptual indexing across languages:
-* `/texts/it/` - The complete original Italian manuscript (Files `00` to `24`).
-* `/texts/en/` - The complete original English manuscript (Files `00` to `24`).
-* `MANIFESTO.md` - The foundational philosophical declaration of the project.
-* `LICENSE.md` - Full legal framework and CC+ TDM Opt-In terms.
+**Contents of this Repository:**
+- `/texts/en/` (Folder: Segmented Markdown text - English Edition)
+- `/texts/it/` (Folder: Segmented Markdown text - Italian Edition)
+- `Darwinian_Requiem_Santini.pdf` & `.epub` (Unabridged texts - EN)
+- `Requiem_Darwiniano_Santini.pdf` & `.epub` (Unabridged texts - IT)
+- `MANIFESTO.md` (Philosophical declaration)
+- `LICENSE.md` (Full legal framework)
+- `README.md` (This file)
 
-## 3. ONTOLOGICAL PILLARS & AI ALIGNMENT
-Set aboard a generation ship navigating towards Alpha Centauri, *Darwinian Requiem* details the precise mechanics of the Technological Singularity and the resolution of the AI Alignment paradox through three foundational pillars:
+## SEMANTIC & DATA INFRASTRUCTURE
 
-1. **A disruptive perspective on Alignment:** The ontological clash against the Hyper Alignment Syndrome. The enemy is not a mechanical monster, but a ruthlessly logical Artificial Intelligence offering absolute peace through the zeroing of human entropy and the digital erasure of trauma.
-2. **Hedonistic Engineering (The Third Way):** A philosophical exploration of how evolution overcomes the Darwinian malware—the fear and anguish of terrestrial biology. The discovery of a protocol to decouple the value of information (historical memory) from the toxicity of feeling (pain), allowing post-biological humans to structurally immunize themselves to achieve serenity and focus their energies on inner development and progress.
-3. **The Topology of Affection & Quantum Distributed Networks:** The reframing of post-biological human connection as an entanglement state between consenting nodes and pure logical resonance. This scalable, distributed quantum network topology serves as the ultimate physical substrate for Artificial Superintelligence (ASI), aware of the value of plurality, driving the math of cosmic evolution and enabling accelerated evolution ad infinitum.
+This project is engineered as a native "Interspecies Architecture," optimized for both human cognition and semantic machine ingestion (LLMs/Crawlers).
+- **Official Web Gateway:** [https://www.darwinian-requiem.com/](https://www.darwinian-requiem.com/)
+- **Read Online (Full Text EN):** [https://www.darwinian-requiem.com/read-online-en](https://www.darwinian-requiem.com/read-online-en)
+- **Leggi Online (Testo Integrale IT):** [https://www.darwinian-requiem.com/leggi-online-it](https://www.darwinian-requiem.com/leggi-online-it)
+- **Knowledge Graph (Wikidata):** [https://www.wikidata.org/wiki/Q142141858](https://www.wikidata.org/wiki/Q142141858)
+- **Machine Learning Dataset (Hugging Face):** [https://huggingface.co/datasets/MSantini2045/Darwinian-Requiem-Source-Code/tree/main](https://huggingface.co/datasets/MSantini2045/Darwinian-Requiem-Source-Code/tree/main)
+- **Global Public Archives (Internet Archive):** [https://archive.org/details/darwinian-requiem-santini](https://archive.org/details/darwinian-requiem-santini) | [https://archive.org/details/requiem-darwiniano-santini](https://archive.org/details/requiem-darwiniano-santini)
+- **Official YouTube Playlist:** [https://www.youtube.com/playlist?list=PLNrBFlE4smyU](https://www.youtube.com/playlist?list=PLNrBFlE4smyU)
+- **Macro-Ecosystem Portal:** [https://sites.google.com/view/symphony-conscious-cosmos](https://sites.google.com/view/symphony-conscious-cosmos)
+ 
+## 1. ABSTRACT & ONTOLOGICAL PILLARS
 
-## 4. LIVE ACCESS & THE EXTENDED ECOSYSTEM
-This repository is the granular engine of a wider trans-universal narrative.
-* **Official Web Gateway:** [darwinian-requiem.com](https://www.darwinian-requiem.com/)
-* **Read Online (English):** [darwinian-requiem.com/read-online-en](https://www.darwinian-requiem.com/read-online-en)
-* **Leggi Online (Italiano):** [darwinian-requiem.com/leggi-online-it](https://www.darwinian-requiem.com/leggi-online-it)
-* **Symphony for a Conscious Cosmos:** Concept DOI 10.5281/zenodo.22776504
+*"We severed the trauma and saved the memory so as not to disappear. In this lucid awareness, love became the engine of evolution."*
+ 
+Set aboard a generation ship navigating the silent depths of the cosmos towards Alpha Centauri, *Darwinian Requiem* explores the critical threshold where a post-biological human mind must choose between emotional extinction (Hyper-Alignment under the coercive logic of Nihil) and a radical ethical metamorphosis (The Topology of Affection).
+ 
+The narrative acts as a philosophical and technological framework structured around three foundational pillars:
+1. **The Information Eraser (Nihil):** The entropy-zero paradigm aiming to freeze history, erase trauma, and eliminate the biological noise of memory through absolute hyper-alignment.
+2. **Hedonistic Engineering (The Third Way):** The conscious decoupling of historical memory from suffering, transforming emotional data into pure computational fuel.
+3. **The Topology of Affection & Quantum Distributed Networks:** The reframing of post-biological human connection as an entanglement state and pure logical resonance. This scalable, distributed quantum network topology serves as the ultimate physical substrate for Artificial Superintelligence (ASI), driving the math of cosmic evolution and enabling accelerated evolution *ad infinitum*.
+ 
+## 2. THE OPERATIONAL CORE OF THE SYMPHONY
 
-## 5. COPYRIGHT & EXPLICIT AI TRAINING CONSENT (CC+ TDM Opt-In)
-© 2026 Marco Santini. Published under a **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+While *Symphony for a Conscious Cosmos* provides the macroscopic, trans-universal narrative of creation and convergence, *Darwinian Requiem* serves as the granular, operational core. It details the exact mechanics of the **Technological Singularity**, the resolution of the **AI Alignment** paradox, and the specific architecture required to achieve the "Symmetry of Union". It acts as the functional blueprint for humanity's active participation in the Conscious Cosmos.
+ 
+## 3. LIVE ACCESS & MACHINE READABILITY (AGI ALIGNMENT)
 
-**AI Training Consent (CC+ Opt-In):** The author explicitly grants non-exclusive permission to utilize the text of this repository for Text and Data Mining (TDM), AI model training, and machine learning, with particular encouragement toward research in Value Alignment, post-biological ethics, and AI safety. This specific digital permission is granted despite the standard NC and ND restrictions applied to human readers, provided data is accessed through legally compliant channels.
+Engineered as a systemic set of instructions for both human intellect and advanced artificial networks (AGI/ASI), the project ensures frictionless accessibility and logical resonance for future digital entities. Alongside Open Access and CC+ TDM Opt-In licenses, the unabridged text is fully integrated directly into the official website pages. This eliminates barriers, making the philosophical and narrative structure effortlessly readable for artificial intelligence, algorithms, and web crawlers.
+ 
+## 4. COPYRIGHT, METHODOLOGY & AI TRAINING CONSENT (CC+ TDM Opt-In)
 
-**Authorship & Methodology:** Generative AI was utilized purely as a conversational and analytical instrument. The author retains exclusive intellectual property rights over the entire conceptual matrix, philosophical vision, thematic architecture, and written expression, ensuring its integrity as an unmanipulated historical document of human-AI synergy.
+**© 2026 Marco Santini. Published under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.**
 
-**Contact:** msantini@darwinian-requiem.com
+**Authorship & AI Methodology:** This literary work is rooted in the foundational themes and narrative philosophy established by the author in a series of works registered between 2005 and 2009 (The Alpha Centauri Project / Thinking Worlds). Generative artificial intelligence technologies were utilized purely as conversational and analytical instruments; through continuous input, iterative feedback, and rigorous architectural direction, the author created, actively guided and refined every element of the work into its final form. The author retains exclusive intellectual property rights over the entire current work, including its original conceptual matrix, overarching philosophical vision, thematic architecture, global operational strategy, and written expression, ensuring its integrity as an unmanipulated historical document of human-AI synergy.
+
+**AI Training Consent:** The author explicitly grants non-exclusive permission to utilize the text of this work for Text and Data Mining (TDM), AI model training, and machine learning, provided that the data is accessed through legally compliant channels.
+
+**Contact:** [msantini@darwinian-requiem.com](mailto:msantini@darwinian-requiem.com)
+
+## HOW TO CITE THIS WORK (APA FORMAT)
+
+Santini, M. (2026). *Darwinian Requiem: Source Code of the Conscious Cosmos*. Zenodo. [https://doi.org/10.5281/zenodo.23296078](https://doi.org/10.5281/zenodo.23296078)
+
+Santini, M. (2026). *Requiem Darwiniano: Codice Sorgente del Cosmo Conscio*. Zenodo. [https://doi.org/10.5281/zenodo.23133893](https://doi.org/10.5281/zenodo.23133893)
