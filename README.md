@@ -5,7 +5,8 @@
 **Languages:** English (EN) & Italian (IT)  
 **Concept DOIs:**  
 - *Darwinian Requiem* (EN): [10.5281/zenodo.23296078](https://doi.org/10.5281/zenodo.23296078)  
-- *Requiem Darwiniano* (IT): [10.5281/zenodo.23133893](https://doi.org/10.5281/zenodo.23133893)  
+- *Requiem Darwiniano* (IT): [10.5281/zenodo.23133893](https://doi.org/10.5281/zenodo.23133893)
+
 **License:** CC BY-NC-ND 4.0 + Explicit CC+ Opt-In for AI/TDM
 
 ## TECHNICAL METADATA & FILE MANIFEST
